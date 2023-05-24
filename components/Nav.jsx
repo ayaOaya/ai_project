@@ -30,7 +30,7 @@ const Nav = () => {
           alt="img"
           className="object-contain"
         />
-        <p className="logo_text">Promotopia</p>
+        <p className="logo_text">IdeaVortex</p>
       </Link>
 
         {/* Desktop navigation */}
